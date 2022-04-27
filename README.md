@@ -6,8 +6,8 @@
 <h1>
 Convert LowerCase input to upperCase
 </h1>
-<img src="lcode.png" width="90%" alt="CODE" title="CODE">
-<img src="l_ot.png" width="90%" alt="OUTPUT" title="OUTPUT">
+<img src="lcode.png"  alt="CODE" title="CODE">
+<img src="l_ot.png"  alt="OUTPUT" title="OUTPUT">
 <h1>
 Convert UpperCase input to LowerCase
 </h1>
