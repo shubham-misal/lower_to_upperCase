@@ -11,7 +11,7 @@ Convert LowerCase input to upperCase
 <h1>
 Convert UpperCase input to LowerCase
 </h1>
-<img src="u_code.png" alt="CODE" title="CODE">
+<img src="u_code.png" width="80%" height="80%" alt="CODE" title="CODE">
 <img src="u_ot.png" alt="OUTPUT" title="OUTPUT">
 <h1>
 Both LowerCase input to upperCase & UpperCase input to LowerCase
