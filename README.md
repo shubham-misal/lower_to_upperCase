@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://cdn-icons-png.flaticon.com/128/2570/2570575.png" alt="python" title="python" ><br>
-  <b><i>#Lower_to_UpperCase</i></b>
-  <b><i>#Upper_to_LowerCase</i></b>
+  <b><i>#Converting in different Cases</i></b>
 </h1>
 <h1>
 Convert LowerCase input to upperCase
