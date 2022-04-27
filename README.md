@@ -11,12 +11,12 @@ Convert LowerCase input to upperCase
 <h1>
 Convert UpperCase input to LowerCase
 </h1>
-<img src="u_code.png" width="100%" height="100%" alt="CODE" title="CODE">
-<img src="u_ot.png" width="100%" height="100%"  alt="OUTPUT" title="OUTPUT">
+<img src="u_code.png" alt="CODE" title="CODE">
+<img src="u_ot.png" alt="OUTPUT" title="OUTPUT">
 <h1>
 Both LowerCase input to upperCase & UpperCase input to LowerCase
 </h1>
-<img src="both_code.png" width="100%" height="100%" alt="CODE" title="CODE">
+<img src="both_code.png"  alt="CODE" title="CODE">
 <img src="both_ot.png" width="100%" height="100%" alt="OUTPUT" title="OUTPUT">
 <h2>
   <i>
